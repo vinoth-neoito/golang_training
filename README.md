@@ -1,2 +1,2 @@
 # golang_training
-Go lang for enthusiast
+Go lang for Todo
